@@ -15,7 +15,7 @@ Run npm install and make sure to install dependencies
 
 ## Links
 
-Deployed app: https://seeshell.github.io/quake-directory/
+Deployed app: https://seeshell.github.io/earthquakes-today/
 
 ## Author
 

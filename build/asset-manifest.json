@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/earthquakes-today/static/css/main.99344ed5.chunk.css",
+    "main.js": "/earthquakes-today/static/js/main.2ff83fd0.chunk.js",
+    "main.js.map": "/earthquakes-today/static/js/main.2ff83fd0.chunk.js.map",
+    "runtime-main.js": "/earthquakes-today/static/js/runtime-main.60d72f16.js",
+    "runtime-main.js.map": "/earthquakes-today/static/js/runtime-main.60d72f16.js.map",
+    "static/css/2.89f067aa.chunk.css": "/earthquakes-today/static/css/2.89f067aa.chunk.css",
+    "static/js/2.02cca060.chunk.js": "/earthquakes-today/static/js/2.02cca060.chunk.js",
+    "static/js/2.02cca060.chunk.js.map": "/earthquakes-today/static/js/2.02cca060.chunk.js.map",
+    "index.html": "/earthquakes-today/index.html",
+    "precache-manifest.993af8cc4fe510cf3af11045cf01f34d.js": "/earthquakes-today/precache-manifest.993af8cc4fe510cf3af11045cf01f34d.js",
+    "service-worker.js": "/earthquakes-today/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/earthquakes-today/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.99344ed5.chunk.css.map": "/earthquakes-today/static/css/main.99344ed5.chunk.css.map",
+    "static/js/2.02cca060.chunk.js.LICENSE.txt": "/earthquakes-today/static/js/2.02cca060.chunk.js.LICENSE.txt",
+    "static/media/Nervous.ttf": "/earthquakes-today/static/media/Nervous.6c341b15.ttf",
+    "static/media/logo.svg": "/earthquakes-today/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d72f16.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.02cca060.chunk.js",
+    "static/css/main.99344ed5.chunk.css",
+    "static/js/main.2ff83fd0.chunk.js"
+  ]
+}
