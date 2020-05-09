@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef4b006f4de8581c620c1062cc390339",
+    "revision": "244fda53531c85b46c4f2180d0dbfd4d",
     "url": "/earthquakes-today/index.html"
   },
   {
