@@ -8,8 +8,8 @@ function Container(props) {
         <p className="title">
           earthquakes today
         </p>
-          <label>
-            search:{" "}
+          <label className="search">
+            search by place:{" "}
             <input
               type="text"
               value={props.search}

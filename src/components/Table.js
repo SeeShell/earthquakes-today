@@ -6,7 +6,7 @@ function Table(props){
         <table className="table">
     <thead>
         <tr>
-            <th><button type="button" onClick={props.handleSort} className="btn btn-secondary btn-sm">^</button></th>
+            <th><button type="button" onClick={props.handleSort} className="btn btn-outline-dark btn-sm">{props.arrow}</button></th>
             <th>Magnitude</th>
             <th>Place</th>
             <th>Time</th>
