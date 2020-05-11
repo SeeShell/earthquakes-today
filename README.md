@@ -11,7 +11,7 @@ An app that lists earthquakes and anything that registers on the richter scale o
 
 Run npm install and make sure to install dependencies
 
-![quake-directory](assets/quake-directory.png)
+![quake-directory](assets/earthquakes-today.png)
 
 ## Links
 
