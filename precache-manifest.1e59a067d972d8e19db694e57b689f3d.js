@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b63b06673dcc1cc9079fedc072b1e34f",
+    "revision": "347e1168d97597e9e4e37ee39f108465",
     "url": "/earthquakes-today/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthquakes-today/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "6927e59739d05c73d7a2",
-    "url": "/earthquakes-today/static/css/main.f0b6ff25.chunk.css"
+    "revision": "67803adbc243413a068a",
+    "url": "/earthquakes-today/static/css/main.756f6097.chunk.css"
   },
   {
     "revision": "9667e3ecc42bc6b25416",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthquakes-today/static/js/2.d3930ddf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6927e59739d05c73d7a2",
-    "url": "/earthquakes-today/static/js/main.957afd01.chunk.js"
+    "revision": "67803adbc243413a068a",
+    "url": "/earthquakes-today/static/js/main.29aa4dc3.chunk.js"
   },
   {
     "revision": "51ba83219f0c568422df",
