@@ -5,9 +5,6 @@ function Container(props) {
   return (
     <div className="container">
       <div >
-        <p className="title">
-          earthquakes today
-        </p>
           <label className="search">
             search by place:{" "}
             <input
