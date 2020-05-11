@@ -81,8 +81,9 @@ class QuakeContainer extends Component {
     this.setState({ filteredQuakes });
   }
   handleSearchChange = (event) => {
-    this.setState({ search: event.target.value });
-    this.filterQuakes();
+    this.setState({ search: event.target.value },() => {
+      this.filterQuakes();
+    } );
   };
   handleInputChange = (event) => {
     const name = event.target.name;

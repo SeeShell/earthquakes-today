@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/earthquakes-today/static/css/main.f0b6ff25.chunk.css",
-    "main.js": "/earthquakes-today/static/js/main.957afd01.chunk.js",
-    "main.js.map": "/earthquakes-today/static/js/main.957afd01.chunk.js.map",
+    "main.css": "/earthquakes-today/static/css/main.756f6097.chunk.css",
+    "main.js": "/earthquakes-today/static/js/main.29aa4dc3.chunk.js",
+    "main.js.map": "/earthquakes-today/static/js/main.29aa4dc3.chunk.js.map",
     "runtime-main.js": "/earthquakes-today/static/js/runtime-main.60d72f16.js",
     "runtime-main.js.map": "/earthquakes-today/static/js/runtime-main.60d72f16.js.map",
     "static/css/2.89f067aa.chunk.css": "/earthquakes-today/static/css/2.89f067aa.chunk.css",
     "static/js/2.d3930ddf.chunk.js": "/earthquakes-today/static/js/2.d3930ddf.chunk.js",
     "static/js/2.d3930ddf.chunk.js.map": "/earthquakes-today/static/js/2.d3930ddf.chunk.js.map",
     "index.html": "/earthquakes-today/index.html",
-    "precache-manifest.ea42416a2327dcce51743029cea0a8e6.js": "/earthquakes-today/precache-manifest.ea42416a2327dcce51743029cea0a8e6.js",
+    "precache-manifest.1e59a067d972d8e19db694e57b689f3d.js": "/earthquakes-today/precache-manifest.1e59a067d972d8e19db694e57b689f3d.js",
     "service-worker.js": "/earthquakes-today/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/earthquakes-today/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.f0b6ff25.chunk.css.map": "/earthquakes-today/static/css/main.f0b6ff25.chunk.css.map",
+    "static/css/main.756f6097.chunk.css.map": "/earthquakes-today/static/css/main.756f6097.chunk.css.map",
     "static/js/2.d3930ddf.chunk.js.LICENSE.txt": "/earthquakes-today/static/js/2.d3930ddf.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/earthquakes-today/static/media/earthquake_banner_v_small.c32b6cff.png",
     "static/media/logo.svg": "/earthquakes-today/static/media/logo.5d5d9eef.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.60d72f16.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.d3930ddf.chunk.js",
-    "static/css/main.f0b6ff25.chunk.css",
-    "static/js/main.957afd01.chunk.js"
+    "static/css/main.756f6097.chunk.css",
+    "static/js/main.29aa4dc3.chunk.js"
   ]
 }
