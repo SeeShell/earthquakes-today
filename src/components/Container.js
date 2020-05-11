@@ -4,6 +4,7 @@ import "./Container.css";
 function Container(props) {
   return (
     <div className="container">
+      
       <div >
           <label className="search">
             search by place:{" "}
@@ -12,6 +13,7 @@ function Container(props) {
               value={props.search}
               onChange={props.handleSearchChange}
             />
+            <p className="subtitle">starting on today's date (UTC)</p>
           </label>
         </div>
         <div className={`container${props.fluid ? "-fluid" : ""}`}>

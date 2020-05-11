@@ -6,4 +6,10 @@
 .search{
     padding-left: 15px;
     font-family: Brass Mono;
+    width: 100%;
+    float: left
+}
+.subtitle{
+    font-family: Brass Mono;
+    float: right
 }
